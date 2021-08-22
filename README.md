@@ -1,4 +1,4 @@
-# Meaning-Dictionary-App-
+# Meaning-Dictionary-App
 Dictionary website, created using dictionary api... HTML | CSS | JS
 
 live:- https://meaning.vercel.app/
