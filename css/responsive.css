@@ -1,0 +1,57 @@
+@media screen and (max-width: 1024px) {
+    nav {
+        height: 60px;
+        padding: 0 50px;
+    }
+
+    .search,
+    .result {
+        padding: 0 50px;
+    }
+
+    .heading {
+        font-size: 30px;
+    }
+
+    .sub {
+        font-size: 18px;
+    }
+
+    .result-top {
+        align-items: start;
+        flex-direction: column;
+    }
+
+    audio {
+        margin: 10px 0px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    nav {
+        padding: 0 20px;
+    }
+
+    #container {
+        flex-direction: column;
+    }
+
+    .search {
+        width: 100%;
+        height: auto;
+        padding: 100px 20px;
+    }
+
+    .result {
+        width: 100%;
+        height: auto;
+        justify-content: start;
+        padding: 50px 20px;
+    }
+
+    .audio {
+        width: 250px;
+    }
+
+}
