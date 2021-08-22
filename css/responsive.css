@@ -42,6 +42,10 @@
         height: auto;
         padding: 100px 20px;
     }
+    
+    .input{
+        width: 100%;
+    }
 
     .result {
         width: 100%;
